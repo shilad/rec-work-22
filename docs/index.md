@@ -1,6 +1,6 @@
 ## RecWork 2022: Workshop on Recommender Systems for the Future of Work 
 
-The RecWork workshop seeks to **close the gap in recommender systems research for work environments** in areas such as calendaring, productivity, community building, space planning, workforce development, and information routing. RecWork will bring together experts who will collaboratively synthesize a forward-looking research agenda for recommender systems in the workplace.
+The RecWork workshop seeks to **close the gap in recommender systems research for work environments** in areas such as calendaring, productivity, community building, space planning, workforce development, and information routing. RecWork will bring together experts who will collaboratively synthesize a forward-looking research agenda for recommender systems in the workplace. 
 
 The workshop conversations will be captured through a **white paper outlining an agenda for recommender systems for the workplace** that will outline a forward-looking research agenda and serve as the foundation for future RecWork workshops.
 
@@ -12,6 +12,7 @@ The workshop conversations will be captured through a **white paper outlining an
 * [Mengting Wan](https://mengtingwan.github.io/), Microsoft Corporation, USA
 * [Longqi Yang](https://ylongqi.com/), Microsoft Corporation, USA
 
+Date and time: TBD
 
 ### Registration
 
