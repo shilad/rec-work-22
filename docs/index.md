@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## RecWork 2022: Workshop on Recommender Systems for the Future of Work 
 
-You can use the [editor on GitHub](https://github.com/shilad/rec-work-22/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+JOSEPH A. KONSTAN, University of Minnesota, USA
+AJITH MURALIDHARAN, LinkedIn Corporation, USA
+ANKAN SAHA, LinkedIn Corporation, USA
+SHILAD SEN, Microsoft Corporation, USA and Macalester College, USA
+MENGTING WAN, Microsoft Corporation, USA
+LONGQI YANG, Microsoft Corporation, USA
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Overview
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shilad/rec-work-22/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+As organizations increasingly digitize their business processes, the role of recommender systems in work environments is expanding. The goal of the RecWork workshop is closing the gap in recommender systems research for work environments in areas such as calendaring, productivity, community building, space planning, workforce development, and information routing. RecWork will bring together experts who will collaboratively synthesize a forward-looking research agenda for recommender systems in the workplace. The outcome will be captured through a white paper that will serve as the foundation for future RecWork workshops. These steps will help advance research in workplace recommenders and broaden the reach of the RecSys conference.
