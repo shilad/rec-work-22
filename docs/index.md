@@ -1,7 +1,10 @@
 ## RecWork 2022: Workshop on Recommender Systems for the Future of Work 
 
-The goal of the RecWork workshop is closing the gap in recommender systems research for work environments in areas such as calendaring, productivity, community building, space planning, workforce development, and information routing. RecWork will bring together experts who will collaboratively synthesize a forward-looking research agenda for recommender systems in the workplace. The outcome will be captured through a white paper that will serve as the foundation for future RecWork workshops. These steps will help advance research in workplace recommenders and broaden the reach of the RecSys conference.
+The RecWork workshop seeks to **close the gap in recommender systems research for work environments** in areas such as calendaring, productivity, community building, space planning, workforce development, and information routing. RecWork will bring together experts who will collaboratively synthesize a forward-looking research agenda for recommender systems in the workplace.
 
+The workshop conversations will be captured through a **white paper outlining an agenda for recommender systems for the workplace** that will outline a forward-looking research agenda and serve as the foundation for future RecWork workshops.
+
+*Organizers:*
 * [Joseph A. Konstan](https://konstan.umn.edu/), University of Minnesota, USA
 * [Ajith Muralidharan](https://www.linkedin.com/in/ajithmuralidharan/), LinkedIn Corporation, USA
 * [Ankan Saha](https://www.linkedin.com/in/ankans/), LinkedIn Corporation, USA
@@ -26,30 +29,27 @@ information retrieval.
 
 ### Program
 
-RecWork will be structured in an interactive format that strives to create opportunities for learning, dialog, and the
-articulation of a forward-looking agenda for recommender systems in the workplace.
+RecWork will be structured as an **interactive format that strives to create opportunities for learning, dialog, and the
+articulation of a forward-looking agenda for recommender systems in the workplace**.
 This interactive structure in the workshop’s first year will lay the groundwork for a more traditional RecWork
-workshop in future years that includes a papers track. RecWork will ultimately expand the breadth and impact of the
-main RecSys technical program for the workplace.
+workshop in future years that includes a papers track.
 
-RecWork will be a half-day workshop that will include 20-50 participants. We anticipate the format to be interactive,
-with a goal of articulating a clear vision for opportunities for recommender systems research in the workplace. The
-workshop structure provides space for dialog and distillation in key emerging and established recommender systems
-areas for the workplace. While the format for the workshop is likely to change based on feedback from registrants, we
-anticipate the following elements:
+RecWork will be a **half-day workshop that will include 20-50 participants**. The interactive format will focus on 
+articulating a clear vision for opportunities for recommender systems research in the workplace. While the format
+for the workshop is likely to change based on feedback from registrants, we anticipate the following elements:
 
-* Opening introduction. A short opening introduction sharing the structure and goal of the workshop.
-* Lightning questions. Every participant will be asked to prepare a single slide and one to two minute description
+* *Opening introduction.* A short opening introduction sharing the structure and goal of the workshop.
+* *Lightning questions.* Every participant will be asked to prepare a single slide and one to two minute description
 of a key open question for recommender systems in the workplace. This session will give us an understanding of
 the breadth of interests and opportunities for the field.
-* Moderated panel. Given that this is the first workshop of this series, we aim to invite research leaders from
+* *Moderated panel.* Given that this is the first workshop of this series, we aim to invite research leaders from
 both academia and industry to an interactive panel discussion that explores the history, current trends, and
 future opportunities for recommender systems in the workplace.
-* Breakout discussion sessions. We will assemble small breakout sessions centered around interests articulated
+* *Breakout discussion sessions.* We will assemble small breakout sessions centered around interests articulated
 by panelists and attendees. The goal of each session will be to detail historical, current, and (especially) future
 recommender systems research within one area. Each session will include a designated scribe whose role will
 include recording discussion notes that can be included in the final whitepaper.
-* Closing plenary. A short closing summarizing insights and outlining next steps for this work stream.
+* *Closing plenary.* A short closing summarizing insights and outlining next steps for this work stream.
 Following RecWork, we will kick off a working group between organizers and interested attendees to distill themes
 and insights from sessions into a white paper that will be disseminated within the RecSys community. We will ensure
 that audio recordings and detailed notes are kept during all sessions throughout the workshop to serve as a starting
