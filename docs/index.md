@@ -13,18 +13,22 @@ The workshop conversations will be captured through a **white paper outlining an
 * [Longqi Yang](https://ylongqi.com/), Microsoft Corporation, USA
 
 
+### Registration
+
+TBD
+
 ### Areas
 
-* Workplace personal assistants deliver nudges that improve worker productivity.
-* Calendar applications suggest meeting slots for better time management.
-* Systems that suggest the best space configurations for hybrid work.
-* Agents that route questions from information workers to experts in their organization.
-* Contact management, communication systems, and activity feeds in products such as Microsoft Teams, Slack,
+* *Workplace personal assistants* deliver nudges that improve worker productivity.
+* *Calendar applications* suggest meeting slots for better time management.
+* Systems that suggest the best *space configurations* for hybrid work.
+* Agents that *route questions* from information workers to experts in their organization.
+* *Contact management, communication systems, and activity feeds* in products such as Microsoft Teams, Slack,
 Meta Workplace, and Google Apps that are designed to positively shape internal relationships and community
 building.
-* Training and workforce development systems that understand the knowledge needed for individual growth and
+* *Training and workforce development systems* that understand the knowledge needed for individual growth and
 opportunities to deliver it.
-* Information seeking tools, such as those in the financial sector, that provide domain-specific real-time contextual
+* *Information seeking tools*, such as those in the financial sector, that provide domain-specific real-time contextual
 information retrieval.
 
 ### Program
