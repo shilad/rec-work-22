@@ -1,8 +1,6 @@
 ## RecWork 2022: Workshop on Recommender Systems for the Future of Work 
 
-The RecWork workshop seeks to **close the gap in recommender systems research for work environments** in areas such as calendaring, productivity, community building, space planning, workforce development, and information routing. RecWork will bring together experts who will collaboratively synthesize a forward-looking research agenda for recommender systems in the workplace. 
-
-The workshop conversations will be captured through a **white paper outlining an agenda for recommender systems for the workplace** that will outline a forward-looking research agenda and serve as the foundation for future RecWork workshops.
+The RecWork workshop seeks to **identify a forward looking research agenda for recommender systems research for work environments** in areas such as calendaring, productivity, community building, space planning, workforce development, and information routing. RecWork will bring together experts to engage in discussions around key challenges and open questions in the field. The workshop conversations will be captured through a **white paper outlining an agenda for recommender systems for the workplace** that will outline a forward-looking research agenda and serve as the foundation for future RecWork workshops.
 
 *Organizers:*
 * [Joseph A. Konstan](https://konstan.umn.edu/), University of Minnesota, USA
@@ -14,9 +12,22 @@ The workshop conversations will be captured through a **white paper outlining an
 
 Date and time: TBD
 
+
 ### Registration
 
-TBD
+RecWork strives to foster vibrant conversation from engaged stakeholders. To achieve this, participants are asked to submit a short position paper or extended abstract (see submission process, below). The organizers will respond with a registration code for the workshop.
+
+TBD with registration info.
+
+### Participatory Workshop Structure
+
+Because RecWork seeks to foster vibrant discussion among participants, the workshop provides a structure where each participant will share their perspective on Recommender Systems in the Workplace:
+
+1) Before registering, participants will submit a short position paper (maximum one page) or an extended abstract (maximum three pages) sharing background information on them and the key questions in the field. These papers will be shared on the RecWork website for all participants to read prior to attending the conference.
+
+2) Participants will deliver a one-slide, two-minute lightening talk at the beginning of the workshop.
+
+3) All participants will contribute to a small breakout discussion centered around an area of interest to them. 
 
 ### Areas
 
@@ -42,8 +53,7 @@ This interactive structure in the workshop’s first year will lay the groundwor
 workshop in future years that includes a papers track.
 
 RecWork will be a **half-day workshop that will include 20-50 participants**. The interactive format will focus on 
-articulating a clear vision for opportunities for recommender systems research in the workplace. While the format
-for the workshop is likely to change based on feedback from registrants, we anticipate the following elements:
+articulating a clear vision for opportunities for recommender systems research in the workplace. 
 
 * **Opening introduction.** A short opening introduction sharing the structure and goal of the workshop.
 * **Lightning questions.** Every participant will be asked to prepare a single slide and one to two minute description
