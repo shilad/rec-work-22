@@ -15,19 +15,27 @@ Date and time: TBD
 
 ### Registration
 
-RecWork strives to foster vibrant conversation from engaged stakeholders. To achieve this, participants are asked to submit a short position paper or extended abstract (see submission process, below). The organizers will respond with a registration code for the workshop.
-
-TBD with registration info.
+RecWork strives to foster vibrant conversation from engaged stakeholders. To achieve this, participants are asked to submit a short position paper or extended abstract (see submission process, below). The organizers will respond with a registration code for the workshop. 
 
 ### Participatory Workshop Structure
 
-Because RecWork seeks to foster vibrant discussion among participants, the workshop provides a structure where each participant will share their perspective on Recommender Systems in the Workplace:
+RecWork will be structured as an **interactive format that strives to create opportunities for learning, dialog, and the
+articulation of a forward-looking agenda for recommender systems in the workplace**.
+This interactive structure in the workshop’s first year will lay the groundwork for a more traditional RecWork
+workshop in future years that includes a papers track.
 
-1) Before registering, participants will submit a short position paper (maximum one page) or an extended abstract (maximum three pages) sharing background information on them and the key questions in the field. These papers will be shared on the RecWork website for all participants to read prior to attending the conference.
+RecWork will be a **half-day workshop that will include 20-50 participants**. The interactive format will focus on 
+articulating a clear vision for opportunities for recommender systems research in the workplace. 
 
-2) Participants will deliver a one-slide, two-minute lightening talk at the beginning of the workshop.
+1) **Registration / Idea submission.** Before registering, participants will submit a short position paper (maximum one page) or an extended abstract (maximum three pages) sharing background information on them and the key questions in the field. These papers will be shared on the RecWork website for all participants to read prior to attending the conference. See submission process, below, for more information.
 
-3) All participants will contribute to a small breakout discussion centered around an area of interest to them. 
+2) **Lightning thoughts.** Participants will deliver a one-slide, two-minute lightening talk at the beginning of the workshop.
+
+3) **Breakout discussion sessions.**  All participants will contribute to a small breakout discussion centered around an area of interest to them. Organizers will identify breakout areas based on themes from the submitted papers. The goal of each session will be to detail historical, current, and (especially) future recommender systems research within one area. Each session will include a designated scribe whose role will include recording discussion notes that can be included in the final whitepaper.
+
+4) **Closing plenary.** A short closing summarizing insights and outlining next steps for this work stream.
+
+5) **Post-workshop whitepaper.** After the workshop, organizers and interested participants will work to distill themes and insights into a whitepaper outlining a forward-looking agenda for recommender systems in the workplace. This will be used during future RecWork iterations that could take a more conventional paper-driven program.  
 
 ### Areas
 
@@ -45,29 +53,5 @@ information retrieval.
 
 Have another RecWork topic not included above? Please contact one of the organizers to add it to the list we will include.
 
-### Program
+### Submission Process
 
-RecWork will be structured as an **interactive format that strives to create opportunities for learning, dialog, and the
-articulation of a forward-looking agenda for recommender systems in the workplace**.
-This interactive structure in the workshop’s first year will lay the groundwork for a more traditional RecWork
-workshop in future years that includes a papers track.
-
-RecWork will be a **half-day workshop that will include 20-50 participants**. The interactive format will focus on 
-articulating a clear vision for opportunities for recommender systems research in the workplace. 
-
-* **Opening introduction.** A short opening introduction sharing the structure and goal of the workshop.
-* **Lightning questions.** Every participant will be asked to prepare a single slide and one to two minute description
-of a key open question for recommender systems in the workplace. This session will give us an understanding of
-the breadth of interests and opportunities for the field.
-* **Moderated panel.** Given that this is the first workshop of this series, we aim to invite research leaders from
-both academia and industry to an interactive panel discussion that explores the history, current trends, and
-future opportunities for recommender systems in the workplace.
-* **Breakout discussion sessions.** We will assemble small breakout sessions centered around interests articulated
-by panelists and attendees. The goal of each session will be to detail historical, current, and (especially) future
-recommender systems research within one area. Each session will include a designated scribe whose role will
-include recording discussion notes that can be included in the final whitepaper.
-* **Closing plenary.** A short closing summarizing insights and outlining next steps for this work stream.
-Following RecWork, we will kick off a working group between organizers and interested attendees to distill themes
-and insights from sessions into a white paper that will be disseminated within the RecSys community. We will ensure
-that audio recordings and detailed notes are kept during all sessions throughout the workshop to serve as a starting
-point for this white paper
