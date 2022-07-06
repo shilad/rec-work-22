@@ -1,6 +1,8 @@
 ## RecWork 2022: Workshop on Recommender Systems for the Future of Work 
 
-The RecWork workshop seeks to **identify a forward looking research agenda for recommender systems research for work environments** in areas such as calendaring, productivity, community building, space planning, workforce development, and information routing. RecWork will bring together experts to engage in discussions around key challenges and open questions in the field. The workshop conversations will be captured through a **white paper outlining an agenda for recommender systems for the workplace** that will outline a forward-looking research agenda and serve as the foundation for future RecWork workshops.
+The RecWork workshop seeks to **identify a forward looking research agenda for recommender systems research for work environments** in areas such as calendaring, productivity, community building, space planning, workforce development, and information routing. 
+
+RecWork will bring together experts to engage in discussions around key challenges and open questions in the field. The workshop conversations will be captured through a **white paper outlining an agenda for recommender systems for the workplace** that will outline a forward-looking research agenda and serve as the foundation for future RecWork workshops.
 
 *Organizers:*
 * [Joseph A. Konstan](https://konstan.umn.edu/), University of Minnesota, USA
@@ -55,3 +57,14 @@ Have another RecWork topic not included above? Please contact one of the organiz
 
 ### Submission Process
 
+Every attendee will be asked to share either a position paper (maximum one page) or an extended abstract (maximum three pages) sharing background on them and one (or more) critical questions for recommender systems in the workplace. These papers are intended to be lightweight for authors and will serve to catalyze and shape discussion. 
+
+Attendees should submit the papers via email to TBD. Organizers will lightly review these submissions and responded quickly with a registration code for the conference.
+
+Structure for position papers:
+* TBD
+
+Structure for extended abstracts:
+* TBD
+
+All papers will be shared on the workshop website for attendees as pre-reads.
