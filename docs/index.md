@@ -53,11 +53,11 @@ articulating a clear vision for opportunities for recommender systems research i
 5) **Post-workshop whitepaper.** After the workshop, organizers and interested participants will work to distill themes and insights into a whitepaper outlining a forward-looking agenda for recommender systems in the workplace. This will be used during future RecWork iterations that could take a more conventional paper-driven program.  
 
 
-### Registration
+### Permission to Register
 
 RecWork strives to foster vibrant conversation from engaged stakeholders. To achieve this, participants are asked to submit a short position paper or extended abstract (see submission process, below). The organizers will respond with a registration code for the workshop. 
 
-### Submission Process
+### Paper Submission Process
 
 Every attendee will be asked to share either a position paper (maximum one page) or an extended abstract (maximum three pages) sharing background on them and one (or more) critical questions for recommender systems in the workplace. These papers are intended to be lightweight for authors and will serve to catalyze and shape discussion. 
 
