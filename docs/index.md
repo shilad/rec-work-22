@@ -24,7 +24,8 @@ Date and time: TBD
 Meta Workplace, and Google Apps that are designed to positively shape internal relationships and community
 building.
 * **Training and workforce development systems** that understand the knowledge needed for individual growth and
-opportunities to deliver it, including personalized information dissemination.
+opportunities to deliver it,
+* **Personalized information dissemination** that seeks to improve individual and organizational knowledge and behavior.
 * **Information seeking tools**, such as those in the financial sector, that provide domain-specific real-time contextual
 information retrieval.
 * **Intelligent matchmaking** both within and across organizations. Contexts include finding collaborators, experts, contractors, etc.
