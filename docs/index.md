@@ -14,10 +14,22 @@ RecWork will bring together experts to engage in discussions around key challeng
 
 Date and time: TBD
 
+### Areas
 
-### Registration
+* **Workplace personal assistants** deliver nudges that improve worker productivity.
+* **Calendar applications** suggest meeting slots for better time management.
+* Systems that suggest the best **space configurations** for hybrid work.
+* Agents that **route questions** from information workers to experts in their organization.
+* **Contact management, communication systems, and activity feeds** in products such as Microsoft Teams, Slack,
+Meta Workplace, and Google Apps that are designed to positively shape internal relationships and community
+building.
+* **Training and workforce development systems** that understand the knowledge needed for individual growth and
+opportunities to deliver it, including personalized information dissemination.
+* **Information seeking tools**, such as those in the financial sector, that provide domain-specific real-time contextual
+information retrieval.
+* **Intelligent matchmaking** both within and across organizations. Contexts include finding collaborators, experts, contractors, etc.
 
-RecWork strives to foster vibrant conversation from engaged stakeholders. To achieve this, participants are asked to submit a short position paper or extended abstract (see submission process, below). The organizers will respond with a registration code for the workshop. 
+Have another RecWork topic not included above? Please contact one of the organizers to add it to the list we will include.
 
 ### Participatory Workshop Structure
 
@@ -39,21 +51,10 @@ articulating a clear vision for opportunities for recommender systems research i
 
 5) **Post-workshop whitepaper.** After the workshop, organizers and interested participants will work to distill themes and insights into a whitepaper outlining a forward-looking agenda for recommender systems in the workplace. This will be used during future RecWork iterations that could take a more conventional paper-driven program.  
 
-### Areas
 
-* **Workplace personal assistants** deliver nudges that improve worker productivity.
-* **Calendar applications** suggest meeting slots for better time management.
-* Systems that suggest the best **space configurations** for hybrid work.
-* Agents that **route questions** from information workers to experts in their organization.
-* **Contact management, communication systems, and activity feeds** in products such as Microsoft Teams, Slack,
-Meta Workplace, and Google Apps that are designed to positively shape internal relationships and community
-building.
-* **Training and workforce development systems** that understand the knowledge needed for individual growth and
-opportunities to deliver it.
-* **Information seeking tools**, such as those in the financial sector, that provide domain-specific real-time contextual
-information retrieval.
+### Registration
 
-Have another RecWork topic not included above? Please contact one of the organizers to add it to the list we will include.
+RecWork strives to foster vibrant conversation from engaged stakeholders. To achieve this, participants are asked to submit a short position paper or extended abstract (see submission process, below). The organizers will respond with a registration code for the workshop. 
 
 ### Submission Process
 
