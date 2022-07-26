@@ -53,20 +53,25 @@ articulating a clear vision for opportunities for recommender systems research i
 5) **Post-workshop whitepaper.** After the workshop, organizers and interested participants will work to distill themes and insights into a whitepaper outlining a forward-looking agenda for recommender systems in the workplace. This will be used during future RecWork iterations that could take a more conventional paper-driven program.  
 
 
-### Permission to Register
+### Participation Requirements
 
-RecWork strives to foster vibrant conversation from engaged stakeholders. To achieve this, participants are asked to submit a short position paper or extended abstract (see submission process, below). The organizers will respond with a registration code for the workshop. 
+RecWork strives to foster vibrant conversation from engaged stakeholders. To achieve this, every participant is asked to submit a short position paper or extended abstract (see submission process, below). These will  
 
 ### Paper Submission Process
 
 Every attendee will be asked to share either a position paper (maximum one page) or an extended abstract (maximum three pages) sharing background on them and one (or more) critical questions for recommender systems in the workplace. These papers are intended to be lightweight for authors and will serve to catalyze and shape discussion. 
 
-Attendees should submit the papers via email to TBD. Organizers will lightly review these submissions and responded quickly with a registration code for the conference.
+Attendees should submit the papers via email to recwork22@gmail.com. Organizers will lightly review these submissions and responded quickly with feedback and information about workshop participation. All papers will be shared on the workshop website for attendees as pre-reads.
 
 Structure for position papers:
-* TBD
+* One page maximum, format is open 
+* Key open question related to the topic of the workshop
+  * Motivation / importance to workplace 
+  * Existed related work / connections to other areas
+  * Possible approaches to answer question
+* Author biography
 
 Structure for extended abstracts:
-* TBD
+* Maximum four pages
+* Same elements as position paper, but with more extended scientific background or possible initial findings  
 
-All papers will be shared on the workshop website for attendees as pre-reads.
