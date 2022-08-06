@@ -2,6 +2,8 @@
 ---
 @import "{{ site.theme }}";
 #header {
-     position: static;
+     margin: 0;
+     border: 0;
+     padding: 0;
      display: none;
 }
