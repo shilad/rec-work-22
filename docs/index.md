@@ -15,7 +15,7 @@ All participants will be asked to share a short (one page) position paper or ext
 * [Joseph A. Konstan](https://konstan.umn.edu/), University of Minnesota, USA
 * [Ajith Muralidharan](https://www.linkedin.com/in/ajithmuralidharan/), LinkedIn Corporation, USA
 * [Ankan Saha](https://www.linkedin.com/in/ankans/), LinkedIn Corporation, USA
-* [Shilad Sen](https://www.linkedin.com/in/shilad/), Microsoft Corporation, USA and Macalester College, USA
+* [Shilad Sen](https://www.linkedin.com/in/shilad/), Macalester College, USA and Microsoft Corporation, USA
 * [Mengting Wan](https://mengtingwan.github.io/), Microsoft Corporation, USA
 * [Longqi Yang](https://ylongqi.com/), Microsoft Corporation, USA
 
