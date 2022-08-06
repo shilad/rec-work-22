@@ -9,7 +9,7 @@ All participants will be asked to share a short (one page) position paper or ext
 *Important Dates*
 - Open question submissions deadline: September 4th, 2022.
 - Open questions submissions shared with participants: September 9, 2022.
-- Workshop date and time:Friday, September 23, 2022, 2pm to 5:30pm. 
+- Workshop date / time:Friday, September 23, 2022, 2pm to 5:30pm. 
 
 *Organizers:*
 * [Joseph A. Konstan](https://konstan.umn.edu/), University of Minnesota, USA
