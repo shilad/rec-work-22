@@ -1,6 +1,6 @@
 ## RecWork 2022: Workshop on Recommender Systems for the Future of Work 
 
-The RecWork workshop seeks to **identify a forward looking research agenda for recommender systems research for work environments** in areas such as calendaring, productivity, community building, space planning, workforce development, and information routing. 
+The RecWork workshop seeks to **identify a forward looking research agenda for recommender systems research for work environments** in areas such as calendaring, productivity, community building, space planning, workforce development, and information routing.  
 
 RecWork will bring together experts to engage in discussions around key challenges and open questions in the field. The workshop conversations will be captured through a **white paper outlining an agenda for recommender systems for the workplace** that will outline a forward-looking research agenda and serve as the foundation for future RecWork workshops.
 
