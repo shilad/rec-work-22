@@ -12,7 +12,7 @@ RecWork will bring together experts to engage in discussions around key challeng
 * [Mengting Wan](https://mengtingwan.github.io/), Microsoft Corporation, USA
 * [Longqi Yang](https://ylongqi.com/), Microsoft Corporation, USA
 
-Date and time: TBD
+Date and time: Friday, September 23rd, 2 pm - 5:30 pm
 
 ### Areas
 
@@ -55,21 +55,22 @@ articulating a clear vision for opportunities for recommender systems research i
 
 ### Participation Requirements
 
-RecWork strives to foster vibrant conversation from engaged stakeholders. To achieve this, every participant is asked to submit a short position paper or extended abstract (see submission process, below). These will  
+RecWork strives to foster vibrant conversation from engaged stakeholders. To achieve this, every participant is asked to submit a short position paper or extended abstract (see submission process, below).
 
 ### Paper Submission Process
 
 Every attendee will be asked to share either a position paper (maximum one page) or an extended abstract (maximum three pages) sharing background on them and one (or more) critical questions for recommender systems in the workplace. These papers are intended to be lightweight for authors and will serve to catalyze and shape discussion. 
 
-Attendees should submit the papers via email to recwork22@gmail.com. Organizers will lightly review these submissions and responded quickly with feedback and information about workshop participation. All papers will be shared on the workshop website for attendees as pre-reads.
+Attendees should submit the papers via email to recwork22@gmail.com. Organizers will lightly review these submissions and responded quickly with feedback and information about workshop participation. All papers will be published on the workshop website with links sent to attendees to read before the workshop.
 
 Structure for position papers:
 * One page maximum, format is open 
-* Key open question related to the topic of the workshop
-  * Motivation / importance to workplace 
-  * Existed related work / connections to other areas
-  * Possible approaches to answer question
-* Author biography
+* A short discussion related to Recommender Systems in the workplace. This could describe one of the following:
+  * A key open question related to Recommender Systems in the Workplace
+  * An area of research outside of the traditional RecSys field that is connected to Recommender Systems in the Workplace
+  * Published or unpublished workthat you have conducted as a practitioner or scholar in the area.
+  * Anything else you think is of interest to attendees!
+* Your biography
 
 Structure for extended abstracts:
 * Maximum four pages
