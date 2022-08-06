@@ -4,6 +4,13 @@ The RecWork workshop seeks to **identify a forward looking research agenda for r
 
 RecWork will bring together experts to engage in discussions around key challenges and open questions in the field. The workshop conversations will be captured through a **white paper outlining an agenda for recommender systems for the workplace** that will outline a forward-looking research agenda and serve as the foundation for future RecWork workshops.
 
+All participants will be asked to share a short (one page) position paper or extended abstract (three page) describing a topic of interest for workshop attendees prior to attending the workshop. 
+
+**Important Dates**
+- Open question submissions deadline: September 4th, 2022.
+- Open questions submissions shared with participants: September 9, 2022.
+- Workshop date and time:Friday, September 23, 2022, 2pm to 5:30pm. 
+
 *Organizers:*
 * [Joseph A. Konstan](https://konstan.umn.edu/), University of Minnesota, USA
 * [Ajith Muralidharan](https://www.linkedin.com/in/ajithmuralidharan/), LinkedIn Corporation, USA
@@ -12,7 +19,6 @@ RecWork will bring together experts to engage in discussions around key challeng
 * [Mengting Wan](https://mengtingwan.github.io/), Microsoft Corporation, USA
 * [Longqi Yang](https://ylongqi.com/), Microsoft Corporation, USA
 
-Date and time: Friday, September 23rd, 2 pm - 5:30 pm
 
 ### Areas
 
