@@ -7,3 +7,9 @@
      padding: 0;
      display: none;
 }
+div.wrapper section:first-child {
+     margin-top: 0;
+}
+span.credits {
+     display: none;
+}
