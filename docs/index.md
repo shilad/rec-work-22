@@ -7,8 +7,8 @@ RecWork will bring together experts to engage in discussions around key challeng
 All participants will be asked to share a short (one page) position paper or extended abstract (three page) describing a topic of interest for workshop attendees prior to attending the workshop. 
 
 *Important Dates*
-- Open question submissions deadline: September 4th, 2022.
-- Open questions submissions shared with participants: September 9, 2022.
+- Position paper / extended abstract deadline: September 4th, 2022.
+- Submissions shared with participants: September 9, 2022.
 - Workshop date / time:Friday, September 23, 2022, 2pm to 5:30pm. 
 
 *Organizers:*
