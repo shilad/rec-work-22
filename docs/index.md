@@ -9,7 +9,7 @@ All participants will be asked to share a short (one page) position paper or ext
 *Important Dates*
 - Position paper / extended abstract deadline: September 4th, 2022.
 - Submissions shared with participants: September 9, 2022.
-- Workshop date / time:Friday, September 23, 2022, 2pm to 5:30pm. 
+- Workshop date / time: Friday, September 23, 2022, 2pm to 5:30pm. 
 
 *Organizers:*
 * [Joseph A. Konstan](https://konstan.umn.edu/), University of Minnesota, USA
