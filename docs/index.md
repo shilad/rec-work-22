@@ -20,6 +20,11 @@ All participants will be asked to share a short (one page) position paper or ext
 * [Longqi Yang](https://ylongqi.com/), Microsoft Corporation, USA
 
 
+### Program
+
+A draft of the [RecWork program](program.md) is available. 
+
+
 ### Areas
 
 * **Workplace personal assistants** deliver nudges that improve worker productivity.
