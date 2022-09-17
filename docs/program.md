@@ -1,5 +1,7 @@
 # RecWork 2022 Program
 
+RecWork will be held Friday, September 23 from 2 pm to 5:30 pm
+
 ## Schedule
 
 |  |  |
