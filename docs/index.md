@@ -22,7 +22,7 @@ All participants will be asked to share a short (one page) position paper or ext
 
 ### Program
 
-A draft of the [RecWork program](program.md) is available. 
+A draft of the [RecWork program](./program) is available. 
 
 
 ### Areas
