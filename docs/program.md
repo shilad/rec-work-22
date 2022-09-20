@@ -27,3 +27,4 @@ RecWork will be held Friday, September 23 from 2 pm to 5:30 pm
 * [Recommender Systems for Knowledge Workers]( papers/RecWor22_Krestel.pdf ), Krestel.
 * [When do We Really Need Recommendations?]( papers/RecWork22_Schnabel.pdf ), Schnabel.
 * [Intelligent Organizational Calendars]( papers/RecWork22_Sen.pdf ), Sen.
+* [Optimizing for Productivity in Workplace Communications Recommender Systems](Recwork22_Muralidharan.pdf), Muralidharan.
