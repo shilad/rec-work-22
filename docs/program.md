@@ -29,3 +29,4 @@ RecWork will be held Friday, September 23 from 2 pm to 5:30 pm
 * [Intelligent Organizational Calendars]( papers/RecWork22_Sen.pdf ), Sen.
 * [Optimizing for Productivity in Workplace Communications Recommender Systems](papers/Recwork22_Muralidharan.pdf), Muralidharan.
 * [Recommender Systems Accounting for Organizational Context ](papers/RecWork22_Yang.pdf), Yang.
+* [Personalization in Organizational Communications: The Case Study of Organizational Bulk Employee Email](papers/RecWork22_Konstan.pdf), Konstan.
